@@ -1,0 +1,7 @@
+{
+    "host":"http://localhost:3000",
+    "S3AccessKey":"AKIAIHFHREBBE5A35Z2A",
+    "S3Secret":"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",
+    "S3bucket":"borisphotogrid",
+    "dbURL":"mongodb://localhost/borisphotogrid"
+}
